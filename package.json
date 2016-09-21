@@ -1,0 +1,14 @@
+{
+  "name": "macro-form",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "typewriter": "bigdots-io/typewriter.git#v0.5.4"
+  },
+  "author": "",
+  "license": "ISC"
+}
